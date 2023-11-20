@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src = "https://media.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif" width = "40">
   Hi there! I'm Marco Anarmo
-  <img src = "https://media.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif" width = "40">
+  <img src = "https://media.giphy.com/media/12jzJ3iOw9rA9a/giphy.gif" width = "50">
 </h1>
 
 <h2 align="center">
