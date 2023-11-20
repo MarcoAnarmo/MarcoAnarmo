@@ -5,13 +5,13 @@
 
 <h2 align="center">
   <a href="www.linkedin.com/in/marco-antonio-arnaiz-montero">
-    <img src="https://img.shields.io/badge/Profile-LinkedIn-blue?logo=Linkedin" width = "110" alt="LinkedIn Badge">&nbsp;
+    <img src="https://img.shields.io/badge/Profile-LinkedIn-blue?logo=Linkedin" width = "127" alt="LinkedIn Badge">&nbsp;
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MarcoAnarmo&color=yellow" width = "100" alt="Views Counter">&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=MarcoAnarmo&color=yellow" width = "120" alt="Views Counter">&nbsp;
 </h2>
 
 - 📚 I’m currently studying Software Engineering at University of Seville!
-- 👀 I'm seeking a position that allows me to apply my software engineering knowledge and skills, particularly in software architecture design, requirements analysis or artificial intelligence.
+- 👀 I'm seeking a position that allows me to apply my software engineering knowledge and skills, particularly in software design, requirements analysis or artificial intelligence.
 - 👨🏻‍💻 These are my principal digital competences:
 
 <p align="center"> 
