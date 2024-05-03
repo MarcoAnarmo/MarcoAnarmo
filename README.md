@@ -11,8 +11,8 @@
 </h2>
 
 - 📚 I’m currently studying Software Engineering at University of Seville!
-- 👀 I'm seeking a position that allows me to apply my software engineering knowledge and skills, particularly in software design, requirements analysis or artificial intelligence.
-- 👨🏻‍💻 These are my principal digital competences:
+- 👨🏻‍💻 I'm also working as a Research Technician in the ISA group.
+- 🤓 These are my principal digital competences:
 
 <p align="center"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
