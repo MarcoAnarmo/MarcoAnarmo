@@ -10,8 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=MarcoAnarmo&color=yellow" width = "120" alt="Views Counter">&nbsp;
 </h2>
 
-- 📚 I’m currently studying Software Engineering at University of Seville!
-- 👨🏻‍💻 I'm also working as a Research Technician in the ISA group.
+- 🎓 I’m graduated as a Software Engineer at University of Seville!
+- 👨🏻‍💻 I'm also working as a Software Developer for Energy Systems Optimization for the Technical University of Graz.
 - 🤓 These are my principal digital competences:
 
 <p align="center"> 
